@@ -1,7 +1,7 @@
 ![github](main.jpg)
 
 ### 👋 Hi there 
-I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools.
+I am a computer science engineer and have experience in working in some ML engineer and Full stack developerman technologist. Interested in making life easier by creating utility tools.
 
 - 🔭 I’m currently working on Kaggle, Pytorch, Rust, GCP and Azure.
 - 🍔 Currently developing Spielliste.

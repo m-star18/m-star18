@@ -5,7 +5,7 @@ I am a computer science engineer and have experience in working in some ML engin
 
 - 🔭 I’m currently working on Kaggle, Pytorch, Rust, GCP and Azure.
 - 🍔 Currently developing Spielliste.
-- ⚡  Available for projects/internship oppornities.
+- 🏊‍♂️  .I love swimming.
 - 💬 Fascinated about reinforcement learning.
 
 ![](https://komarev.com/ghpvc/?username=m-star18&color=green)
